@@ -5,14 +5,14 @@ It includes Python scripts and SQL queries designed for various use cases in dat
 
 ## 📑 Table of Contents
 
-- [📌 Overview](#-overview)
-- [📁 Repository Structure](#-repository-structure)
-- [🚀 Getting Started](#-getting-started)
-    - [🔹 Prerequisites](#-prerequisites)
-    - [🛠️ Installation](#️-installation)
-- [🐳 Docker Usage](#-docker-usage)
-- [👤 Author](#-author)
-- [📜 License](#-license)
+- [📌 Overview](#📌-overview)
+- [📁 Repository Structure](#📁-repository-structure)
+- [🚀 Getting Started](#🚀-getting-started)
+   - [🔹 Prerequisites](#🔹-prerequisites)
+   - [🛠️ Installation](#🛠️-installation)
+- [🐳 Docker Usage](#🐳-docker-usage)
+- [👤 Author](#👤-author)
+- [📜 License](#📜-license)
 
 ---
 
