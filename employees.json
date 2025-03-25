@@ -1,0 +1,34 @@
+{
+    "employees": [
+        {
+            "name": "John Doe",
+            "phone": "123-456-7890",
+            "projects": [
+                {
+                    "id": 1,
+                    "name": "Project Alpha",
+                    "budget": 1000,
+                    "status": "completed"
+                },
+                {
+                    "id": 2,
+                    "name": "Project Beta",
+                    "budget": 1500,
+                    "status": "completed"
+                }
+            ]
+        },
+        {
+            "name": "Jane Smith",
+            "phone": "987-654-3210",
+            "projects": [
+                {
+                    "id": 3,
+                    "name": "Project Gamma",
+                    "budget": 2000,
+                    "status": "completed"
+                }
+            ]
+        }
+    ]
+}
