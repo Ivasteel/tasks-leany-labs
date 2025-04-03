@@ -52,18 +52,18 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Ivasteel/tasks-leany-labs.git
-   cd tasks-leany-labs
+   git clone https://github.com/Ivasteel/json-validation-scd2.git
+   cd json-validation-scd2
    ```
 
 2. Build the Docker image:
    ```sh
-   docker build -t ivasteel/leanylabs .
+   docker build -t ivasteel/jsonvalidationscd2 .
    ```
 
 3. Run the container:
    ```sh
-   docker run --rm -it ivasteel/leanylabs
+   docker run --rm -it ivasteel/jsonvalidationscd2
    ```
 
 
@@ -74,7 +74,7 @@ The Docker image for this project is available on Docker Hub:
 
 To pull the latest image:
 ```sh
-   docker pull ivasteel/leanylabs:latest
+   docker pull ivasteel/jsonvalidationscd2:latest
 ```
 
 ## Contributing
