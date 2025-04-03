@@ -1,4 +1,4 @@
-# 🏗️ LeanyLabs Tasks
+# 🏗️ Tasks
 
 This repository contains a collection of tasks related to JSON handling and entity processing.  
 It includes Python scripts and SQL queries designed for various use cases in data analysis and automation.
